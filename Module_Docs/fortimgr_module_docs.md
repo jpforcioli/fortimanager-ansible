@@ -24,6 +24,7 @@
   * [fortimgr_vip_mapping - manages vip mapped resources and attributes](#fortimgr_vip_mapping)
   * [fortimgr_route - manages route configurations for fortigate devices](#fortimgr_route)
   * [fortimgr_facts - gathers facts from the fortimanager](#fortimgr_facts)
+  * [fortimgr_jsonrpc_request - Sends generic json-rpc FortiManager API requests](#fortimgr_json_request)
 
 ---
 
